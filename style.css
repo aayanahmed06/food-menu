@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: black !important;
+}
+
+.nav-color{
+    background-color:black;
+}
+
+.nav-item a{
+    text-decoration: none;
+    color:white; 
+    cursor: pointer;
+    position: relative;
+}
+
+.nav-item a:hover{
+        color: #E4002B;
+        
+}
+
+
+    
+button.btn{
+    text-transform: capitalize;
+   border-color: #E4002B;
+   background-color:#E4002B;
+   text-align: left;
+   margin-left: 100px;
+   
+}
+
+/* about section */
+ 
+img,.img-fluid,.about-image{
+width: 100%;
+margin-top: 30px;
+
+
+
+}
+
+
